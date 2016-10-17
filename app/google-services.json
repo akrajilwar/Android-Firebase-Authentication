@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "526247376246",
+    "firebase_url": "https://android-learning-6a351.firebaseio.com",
+    "project_id": "android-learning-6a351",
+    "storage_bucket": "android-learning-6a351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526247376246:android:25456164d477fc95",
+        "android_client_info": {
+          "package_name": "akraj.snow.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526247376246-frjste1mpr6mtdrak54vv92s90e4ufh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQ5FiWrifc4pXC37RRBdyEempN42aqCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526247376246:android:a292da978d66fd61",
+        "android_client_info": {
+          "package_name": "snow.androidlearning.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526247376246-s37dkjmf6c6rm1ukmas42q5t25vteroo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "snow.androidlearning.app",
+            "certificate_hash": "FF02E38B00DC54FE161708D29676FCB988BAB2D7"
+          }
+        },
+        {
+          "client_id": "526247376246-frjste1mpr6mtdrak54vv92s90e4ufh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQ5FiWrifc4pXC37RRBdyEempN42aqCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526247376246-frjste1mpr6mtdrak54vv92s90e4ufh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526247376246:android:b3817ae2038b05c2",
+        "android_client_info": {
+          "package_name": "org.snowcorp.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526247376246-frjste1mpr6mtdrak54vv92s90e4ufh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQ5FiWrifc4pXC37RRBdyEempN42aqCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526247376246:android:c28fc6f1b2ee390b",
+        "android_client_info": {
+          "package_name": "org.snowcorp.notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526247376246-frjste1mpr6mtdrak54vv92s90e4ufh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQ5FiWrifc4pXC37RRBdyEempN42aqCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526247376246:android:8d719e7d022f8eee",
+        "android_client_info": {
+          "package_name": "org.snowcorp.firebase.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526247376246-frjste1mpr6mtdrak54vv92s90e4ufh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQ5FiWrifc4pXC37RRBdyEempN42aqCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
